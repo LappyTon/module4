@@ -1,0 +1,24 @@
+.borderWho {
+    margin-top: 41px;
+    border-bottom: 4px solid #F38181;
+    margin-bottom: 46px;
+    width: 61px;
+    margin-left: 50%;
+}
+.whoText {
+    width: 941px;
+    text-align: center;
+    margin: 0 auto;
+}
+.photo {
+    height: 471px;
+    width: 381px;
+}
+.areCont{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 91px;
+}
+.are {
+    text-align: center;
+}
